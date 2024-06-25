@@ -244,7 +244,7 @@ while True:
     cv2.waitKey(1)
 ```
 
-<h3>### 👋 Gesture Controls</h3>
+<h1>### 👋 Gesture Controls</h1>
 
 <h2>Switching Modes</h2>
 Gesture: Pinky and thumb up, all other fingers down
