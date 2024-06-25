@@ -15,8 +15,8 @@
 
 ```bash
 pip install -r requirements.txt
-
-## MEDIAPIPE
+***
+### MEDIAPIPE
 <div align="center">
   <img alt="mediapipeLogo" src="images/mediapipe.png" />
 </div>
@@ -56,3 +56,4 @@ Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions
     <img alt="mediapipeLogo" src="images/htm.jpg" height="360 x" weight ="640 x" />
     
 </div>
+***
