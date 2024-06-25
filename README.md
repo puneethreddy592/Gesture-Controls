@@ -14,9 +14,8 @@
 + pyautogui
 
 ```bash
-***
 pip install -r requirements.txt
-***
+```
 ### MEDIAPIPE
 <div align="center">
   <img alt="mediapipeLogo" src="images/mediapipe.png" />
