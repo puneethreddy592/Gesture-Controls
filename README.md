@@ -57,3 +57,20 @@ Source: [MediaPipe Hands Solutions](https://github.com/google-ai-edge/mediapipe)
     
 </div>
 
+### 📝 CODE EXPLANATION
+
+<b> Importing Libraries </b>
+
+```
+py
+import cv2
+import mediapipe as mp
+import math
+import numpy as np
+from ctypes import cast, POINTER
+from comtypes import CLSCTX_ALL
+from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+import pyautogui
+
+```
+
