@@ -268,7 +268,11 @@ Description: Plays/pauses media
 
 <h1>📬 Contact</h1>
 If you want to contact me, you can reach me through the below handles.
-<a href="https://twitter.com/prrthamm"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25">@prrthamm</img></a>  
-<a href="https://www.linkedin.com/in/pratham-bhatnagar/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Pratham Bhatnagar</img></a>
-<a href="https://www.instagram.com/your-instagram-handle/"><img src="https://www.example.com/path/to/instagram-logo.png" width="25"> Your Instagram Handle</img></a>
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/pratham-bhatnagar/">
+        <img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25" style="vertical-align: middle;"> Pratham Bhatnagar</a>
+    <br>
+    <a href="https://www.instagram.com/your-instagram-handle/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="25" style="vertical-align: middle;"> Your Instagram Handle</a>
+</div>
 
