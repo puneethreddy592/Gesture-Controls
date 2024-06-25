@@ -269,10 +269,10 @@ Description: Plays/pauses media
 <h1>📬 Contact</h1>
 If you want to contact me, you can reach me through the below handles.
 <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/pratham-bhatnagar/">
-        <img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25" style="vertical-align: middle;"> Pratham Bhatnagar</a>
+    <a href="https://www.linkedin.com/in/puneeth-reddy-6aa887287/">
+        <img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25" style="vertical-align: middle;"> Puneeth Reddy</a>
     <br>
-    <a href="https://www.instagram.com/your-instagram-handle/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="25" style="vertical-align: middle;"> Your Instagram Handle</a>
+    <a href="https://www.instagram.com/madlad0x2/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="25" style="vertical-align: middle;"> Puneeth</a>
 </div>
 
