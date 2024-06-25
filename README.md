@@ -49,7 +49,7 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 <br>
 
-Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions/hands#python-solution-api)
+Source: [MediaPipe Hands Solutions](https://github.com/google-ai-edge/mediapipe)
 
 <div align="center">
     <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
