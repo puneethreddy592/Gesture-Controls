@@ -254,14 +254,17 @@ Description: Switches between Volume, Screenshot, and Media Control modes
 Gesture: Normal behavior with index and thumb distance
 Description: Adjusts the system volume
 
-<h2></h2>Lock/Unlock Volume:</h2>
+<h2>Lock/Unlock Volume:</h2>
 Gesture: Touch middle finger and thumb, all other fingers down
 Description: Locks and unlocks the volume
 
-<h2></h2>Screenshot Mode</h2>
+<h2>Screenshot Mode</h2>
 Gesture: Touch index and thumb, all other fingers down
 Description: Takes a screenshot
 
-,h2>Media Control Mode</h2>
+<h2>Media Control Mode</h2>
 Gesture: Touch index and thumb, all other fingers down
 Description: Plays/pauses media
+
+<h1>📬 Contact</h1>
+If you want to contact me, you can reach me through the below handles.
