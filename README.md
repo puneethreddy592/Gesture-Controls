@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gesture Volume Control Using OpenCV and MediaPipe</h1>
-  <img alt="output" src="images/output.gif" />
+  <img alt="output" src="images/output.mp4" />
 </div>
 
 > This project uses OpenCV and MediaPipe to control system volume, take screenshots, and play/pause media using hand gestures.
